@@ -11,8 +11,6 @@
 
 - 👯 I’m contributing in **GirlScript Summer of Code 2023**
 
-- 📫 How to reach me **himanshusahu@gmail.com**
-
 - 😄 Pronouns : **He/him**
 
 <h3 align="left">Connect with me:</h3>
