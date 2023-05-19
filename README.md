@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar Sahu</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshukumarsahu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshukumarsahu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/himanshuks01" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuks01?logo=twitter&style=for-the-badge" alt="himanshuks01" /></a> </p>
 
 - 🔭 I’m currently building **Community**
 
