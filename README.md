@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently building **Community**
 
-- 💬 Ask me about **Machine Learning & Community**
-
 - 🌱 I’m currently learning **Machine Learning , UI/UX**
+
+- 💬 Ask me about **Machine Learning & Community**
 
 - 👯 I’m contributing in **GirlScript Summer of Code 2023**
 
