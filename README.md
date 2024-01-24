@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building **Community**
 
-- 🌱 I’m currently learning **Machine Learning , UI/UX**
+- 🌱 I’m currently learning **Machine Learning , UI/UX Designer**
 
 - 💬 Ask me about **Machine Learning & Community**
 
