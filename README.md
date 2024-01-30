@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently building **Community**
 
-- 🌱 I’m currently learning **Machine Learning , UI/UX Designer**
+- 🌱 I’m currently learning **Full Stack Developer , UI/UX Designer**
 
-- 💬 Ask me about **Machine Learning & Community**
+- 💬 Ask me about **Full Stack Developer & Community**
 
 - 👯 I’m contributing in **GirlScript Summer of Code 2023**
 
